@@ -91,12 +91,12 @@ let before = user.level * 1
 while (canLevelUp(user.level, user.exp, global.multiplier)) user.level++
 if (before !== user.level) {
 let teks = `عاش يا حب! ${conn.getName(m.sender)} المستوي: ${user.level}`
-let str = `👑 𝐅𝐋𝐀𝐒𝐇﹝⚡﹞𝐁𝐎𝐓 - 𝐍𝐀𝐑𝐔𝐓𝐎&𝐙𝐀𝐂𝐊
+let str = `👑 موزان﹝⚡﹞𝐁𝐎𝐓 - 𝐍𝐀𝐑𝐔𝐓𝐎&𝐙𝐀𝐂𝐊
 *╭━⊰ ${name}⁩ ⊱━დ*
 *┃ الـمـسـتـوي السابق: ${before}*
 *┃ الـمـسـتـوي الحالي: ${user.level}*
 *┃ رتـبــتـك:* *‎${role}*
-> 𝐅𝐋𝐀𝐒𝐇-𝐁𝐎𝐓 © 𝐁𝐘 𝐍𝐀𝐑𝐔𝐓𝐎&𝐙𝐀𝐂𝐊
+> موزان-𝐁𝐎𝐓 © 𝐁𝐘 𝐍𝐀𝐑𝐔𝐓𝐎&𝐙𝐀𝐂𝐊
 *╰━⊰ 🎖️ مستوى جديد 🎖️ ⊱━━დ*
 
 *_لقد وصلت إلى مستوى جديد!!!_*`.trim()
