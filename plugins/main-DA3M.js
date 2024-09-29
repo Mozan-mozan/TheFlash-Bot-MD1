@@ -4,23 +4,23 @@ let handler = async m => m.reply(`
 
 _GROUP:_
 ─────────────
-▢ *Account Zack*
-https://github.com/araab-zack
+▢ * A.R.G *
+https://chat.whatsapp.com/FXesBrbMLBlHevMK6uheCj
 ─────────────
-▢ *Account Naruto*
-https://github.com/naru12348
+▢ *A.R.G*
+https://chat.whatsapp.com/FXesBrbMLBlHevMK6uheCj
 ─────────────
-▢ *SUPPORT_GROUP_(AR🇸🇦)*
-https://chat.whatsapp.com/I16t9p7rBz4KiLww5RI7Io
+▢ *A.R.G)*
+https://chat.whatsapp.com/FXesBrbMLBlHevMK6uheCj
 ─────────────
-▢ *SUPPORT_GROUP_(ES🇪🇸)*
-https://chat.whatsapp.com/B9Ovn2IghiFJCoSnWEgsRn
+▢ *A.R.G)*
+https://chat.whatsapp.com/FXesBrbMLBlHevMK6uheCj
 ─────────────
-▢ *YouTube*
-• https://www.youtube.com/@Zack_247
+▢ *A.R.G*
+• https://chat.whatsapp.com/FXesBrbMLBlHevMK6uheCj
 ─────────────
-▢ *YouTube*
-• https://youtube.com/@user-jl2zt4nc6i?si=_nxA_D4KFhJU4ZZm
+▢ *A.R.G*
+• https://chat.whatsapp.com/FXesBrbMLBlHevMK6uheCj
 `.trim())
 handler.help = ['gpflash']
 handler.tags = ['main']
