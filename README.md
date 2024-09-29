@@ -1,7 +1,7 @@
 <p align="center">
  <img width="180px" src="https://envs.sh/wHc.jpg" align="center"/>
  <h2 align="center">TheFlash-Bot-MD</h2>
- <p align="center">Este bot fue desarrollado por Zack y Naruto.</p>
+ <p align="center">Este bot fue desarrollado por مستر موزان y موزان.</p>
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 # `Flash-Bot` 
 
-# `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة عــراب زاك و نــاروتــو` 
+# `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة مستر موزان` 
 <p align="center">
-<img src="https://envs.sh/06H.jpg" alt="⁨عــراب زاك⁩" width="900"/>
+<img src="https://envs.sh/06H.jpg" alt="⁨مستر موزان" width="900"/>
 </p>
 
 ------------------
 
-> اللغه الرئيسيه التي اشتغل عليها المطورين هي *العربية و الاسبانية*
+> اللغه الرئيسيه التي اشتغل عليها المطور هي *العربية و الاسبانية*
 
 
 > El idioma principal en el que trabajaron los desarrolladores es el árabe y el Español.
